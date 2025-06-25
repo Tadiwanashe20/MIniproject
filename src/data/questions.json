@@ -1,0 +1,74 @@
+[
+  {
+    "question": "What does this sign mean?",
+    "image": "stop-sign.jpg",
+    "options": ["Stop", "Yield", "No entry", "Roundabout"],
+    "answer": "Stop"
+  },
+  {
+    "question": "When can you overtake on the left?",
+    "options": [
+      "When the vehicle in front is turning right",
+      "On a one-way street",
+      "Never",
+      "Only in daylight"
+    ],
+    "answer": "On a one-way street"
+  },
+  {
+    "question": "What color are warning signs?",
+    "options": ["Red", "Blue", "Yellow", "Green"],
+    "answer": "Yellow"
+  },
+  {
+    "question": "What does a flashing amber light mean at a pedestrian crossing?",
+    "options": [
+      "Stop and wait",
+      "Go if no one is crossing",
+      "Accelerate",
+      "Hoot and go"
+    ],
+    "answer": "Go if no one is crossing"
+  },
+  {
+    "question": "What does this sign indicate?",
+    "image": "no-entry.jpg",
+    "options": ["No parking", "No entry", "Roundabout", "One way"],
+    "answer": "No entry"
+  },
+  {
+    "question": "What’s the minimum tread depth for car tyres?",
+    "options": ["1.6mm", "2.5mm", "3.0mm", "4.0mm"],
+    "answer": "1.6mm"
+  },
+  {
+    "question": "You must use dipped headlights when...",
+    "options": [
+      "Driving in the rain",
+      "Driving at night in well-lit areas",
+      "Driving in fog",
+      "Driving in daytime"
+    ],
+    "answer": "Driving in fog"
+  },
+  {
+    "question": "Which shape are warning signs?",
+    "options": ["Circle", "Rectangle", "Triangle", "Square"],
+    "answer": "Triangle"
+  },
+  {
+    "question": "What should you do when approaching a roundabout?",
+    "options": [
+      "Speed up",
+      "Give way to traffic on your right",
+      "Stop always",
+      "Use hazard lights"
+    ],
+    "answer": "Give way to traffic on your right"
+  },
+  {
+    "question": "What does a red traffic light mean?",
+    "options": ["Go", "Caution", "Stop", "Slow down"],
+    "answer": "Stop"
+  }
+]
