@@ -1,0 +1,75 @@
+/* Global Reset */
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #000;
+  color: #d4af37;
+  font-family: 'Segoe UI', sans-serif;
+  height: 100%;
+  overflow-x: hidden;
+}
+
+.app {
+  min-height: 100vh;
+  background-color: #000;
+}
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: white;
+  color: #333;
+}
+
+.app {
+  padding: 2rem;
+}
+
+h1, h2 {
+  color: #d4af37; /* Gold */
+}
+
+button {
+  background-color: #d4af37;
+  color: white;
+  border: none;
+  padding: 0.6rem 1.2rem;
+  margin-top: 1rem;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #c99e2e;
+}
+.dimez-logo {
+  text-align: center;
+  margin-bottom: 2rem;
+  animation: fadeInLogo 1.8s ease forwards;
+  opacity: 0;
+}
+
+@keyframes fadeInLogo {
+  from {
+    transform: translateY(-20px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.dimez-name {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #d4af37;
+  letter-spacing: 2px;
+}
+
+.dimez-tagline {
+  font-size: 0.95rem;
+  color: #aaa;
+  margin-top: -0.4rem;
+  letter-spacing: 1px;
+}
